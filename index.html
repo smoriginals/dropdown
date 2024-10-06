@@ -1,21 +1,18 @@
 ﻿<!DOCTYPE html>
-
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dropdown</title>
 	<link rel="stylesheet" href="style.css" >
 </head>
 <body>
 	<div class="container">
-		<input type="text" class="search-box" placeholder="Type the City Name">
-		<ul>
-			<li>One</li>
-			<li>Two</li>
-			<li>One</li>
-			<li>Two</li>
-		</ul>
+		<input type="text" id="autocomplete-input" placeholder="Type the City Name">
+		<div class="autocomplete-suggestions" id="autocomplete-suggestions"></div>
 	</div>
-	<div class="box"></div>
+	
+	<script src="cities.js"></script>
+	<script src="script.js"></script>
 </body>
 </html>

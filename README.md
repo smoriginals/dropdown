@@ -1,2 +1,1 @@
-# dropdown
- Dropdown Based On Selection
+[OPEN IN BROWSER](https://smos-github.github.io/dropdown/) `Regex based Dropdown`

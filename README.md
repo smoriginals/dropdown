@@ -1,1 +1,1 @@
-[OPEN IN BROWSER](https://smos-github.github.io/dropdown/) `Regex based Dropdown`
+[OPEN IN BROWSER](https://smoriginals.github.io/dropdown/) `Regex based Dropdown`
